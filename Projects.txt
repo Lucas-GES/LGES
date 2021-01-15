@@ -1,8 +1,0 @@
-# Projects made at home for practicing
-
-## Aplication ToDo
-- Add and Remove Tasks from a list ToDo
-
-## Aplication Multiplication table
-
-- Change the number in the input to get a Multiplication table of him
